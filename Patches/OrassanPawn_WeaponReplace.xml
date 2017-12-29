@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/PawnKindDef[defName = "OrassanVillager"]/weaponTags</xpath>
+    <value>
+      <weaponTags>
+          <li>TEGun</li>
+      </weaponTags>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/PawnKindDef[defName = "OrassanVillager"]/weaponTags</xpath>
+    <value>
+      <weaponTags>
+          <li>TEGun</li>
+      </weaponTags>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/PawnKindDef[defName = "OrassanTownGuard"]/weaponTags</xpath>
+    <value>
+      <weaponTags>
+          <li>TEGun</li>
+      </weaponTags>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/PawnKindDef[defName = "OrassanSniper"]/weaponTags</xpath>
+    <value>
+      <weaponTags>
+          <li>TEGun</li>
+      </weaponTags>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/PawnKindDef[defName = "OrassanGunner"]/weaponTags</xpath>
+    <value>
+      <weaponTags>
+          <li>TEGun</li>
+      </weaponTags>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/PawnKindDef[defName = "OrassanGrenadier"]/weaponTags</xpath>
+    <value>
+      <weaponTags>
+          <li>TEGun</li>
+      </weaponTags>
+    </value>
+  </Operation>
+</Patch>

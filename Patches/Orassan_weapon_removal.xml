@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationRemove">
+	  <xpath>*/ThingDef[defName = "Bullet_OrassanRocket"]</xpath>
+	</Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_OrassanRocket"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Bullet_OrassanShotgun"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_OrassanShotgun"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Bullet_OrassanRifle"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_OrassanRifle"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Bullet_kittySniper"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_OrassanSniper"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Bullet_kittypistol"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_OrassanPistol"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Bullet_kittyAE"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_OrassanAEPistol"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Bullet_kittypistol"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_OrassanSMG"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_OrassanLMG"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Bullet_CryoLauncher"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "Gun_CryoLauncher"]</xpath>
+  </Operation>
+</Patch>

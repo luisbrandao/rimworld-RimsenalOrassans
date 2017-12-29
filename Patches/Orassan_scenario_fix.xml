@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/ScenarioDef[defName = "OrassanScenario"]/scenario/parts/li[thingDef = "Gun_OrassanRifle"]/thingDef</xpath>
+    <value>
+      <thingDef>KineticRifle</thingDef>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/ScenarioDef[defName = "OrassanScenario"]/scenario/parts/li[thingDef = "Gun_OrassanPistol"]/thingDef</xpath>
+    <value>
+      <thingDef>KineticPistol</thingDef>
+    </value>
+  </Operation>
+</Patch>
