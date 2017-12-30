@@ -4,7 +4,7 @@
 	  <xpath>*/ThingDef[defName = "Bullet_OrassanRocket"]</xpath>
 	</Operation>
   <Operation Class="PatchOperationRemove">
-    <xpath>*/ThingDef<!-- https://gist.github.com/Zhentar/4a1b71cea45b9337f70b30a21d868782 -->[defName = "Gun_OrassanRocket"]</xpath>
+    <xpath>*/ThingDef[defName = "Gun_OrassanRocket"]</xpath>
   </Operation>
   <Operation Class="PatchOperationRemove">
     <xpath>*/ThingDef[defName = "Bullet_OrassanShotgun"]</xpath>
