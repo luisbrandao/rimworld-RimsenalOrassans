@@ -4,7 +4,7 @@
     <xpath>*/PawnKindDef[defName = "OrassanVillager"]/weaponTags</xpath>
     <value>
       <weaponTags>
-          <li>TEGun</li>
+          <li>YPGun</li>
       </weaponTags>
     </value>
   </Operation>
@@ -12,7 +12,7 @@
     <xpath>*/PawnKindDef[defName = "OrassanVillager"]/weaponTags</xpath>
     <value>
       <weaponTags>
-          <li>TEGun</li>
+          <li>YPGun</li>
       </weaponTags>
     </value>
   </Operation>
@@ -20,7 +20,7 @@
     <xpath>*/PawnKindDef[defName = "OrassanTownGuard"]/weaponTags</xpath>
     <value>
       <weaponTags>
-          <li>TEGun</li>
+          <li>YPGun</li>
       </weaponTags>
     </value>
   </Operation>
@@ -28,7 +28,7 @@
     <xpath>*/PawnKindDef[defName = "OrassanSniper"]/weaponTags</xpath>
     <value>
       <weaponTags>
-          <li>TEGun</li>
+          <li>YPGun</li>
       </weaponTags>
     </value>
   </Operation>
@@ -36,7 +36,7 @@
     <xpath>*/PawnKindDef[defName = "OrassanGunner"]/weaponTags</xpath>
     <value>
       <weaponTags>
-          <li>TEGun</li>
+          <li>YPGun</li>
       </weaponTags>
     </value>
   </Operation>
@@ -44,7 +44,7 @@
     <xpath>*/PawnKindDef[defName = "OrassanGrenadier"]/weaponTags</xpath>
     <value>
       <weaponTags>
-          <li>TEGun</li>
+          <li>YPGun</li>
       </weaponTags>
     </value>
   </Operation>

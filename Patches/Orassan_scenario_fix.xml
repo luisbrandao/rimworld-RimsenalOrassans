@@ -3,13 +3,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>*/ScenarioDef[defName = "OrassanScenario"]/scenario/parts/li[thingDef = "Gun_OrassanRifle"]/thingDef</xpath>
     <value>
-      <thingDef>KineticRifle</thingDef>
+      <thingDef>YP_SeoLi</thingDef>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>*/ScenarioDef[defName = "OrassanScenario"]/scenario/parts/li[thingDef = "Gun_OrassanPistol"]/thingDef</xpath>
     <value>
-      <thingDef>KineticPistol</thingDef>
+      <thingDef>YP_SeolHwa</thingDef>
     </value>
   </Operation>
 </Patch>
